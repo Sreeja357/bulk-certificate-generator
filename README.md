@@ -414,6 +414,7 @@ Before submitting, verify that:
 ------------------------------------------------------------------------
 
 **Assignment:** Bulk Certificate Generator\
+**Technology:** Python\
 **Framework:** Flask\
 **Database:** MySQL\
 **PDF library:** ReportLab\
