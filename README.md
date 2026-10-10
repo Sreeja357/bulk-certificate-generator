@@ -396,24 +396,20 @@ Potential improvements for a production-ready system include:
 These are future enhancements and are not required to demonstrate the
 core assignment functionality.
 
-## 11. Submission Checklist
+## 11\. Submission Checklist
 
 Before submitting, verify that:
 
--   [ ] The project installs from `requirements.txt`.
--   [ ] MySQL configuration is documented and no real credentials are
-    committed.
--   [ ] The required database tables can be created from the submitted
-    setup instructions.
--   [ ] The Flask application starts successfully.
--   [ ] Bulk job creation and input validation work.
--   [ ] Job status and individual results can be retrieved.
--   [ ] Generated PDF certificates can be retrieved.
--   [ ] Individual certificate failures are tested and do not stop other
-    recipients unnecessarily.
--   [ ] `pytest -v` passes in the submission environment.
--   [ ] The README matches the final code and its actual API response
-    fields.
+- [ ] The project installs from `requirements.txt`.
+- [ ] MySQL configuration is documented and no real credentials are committed.
+- [ ] The required database tables can be created from the submitted setup instructions.
+- [ ] The Flask application starts successfully.
+- [ ] Bulk job creation and input validation work.
+- [ ] Job status and individual results can be retrieved.
+- [ ] Generated PDF certificates can be retrieved.
+- [ ] Individual certificate failures are tested and do not stop other recipients unnecessarily.
+- [ ] `pytest -v` passes in the submission environment.
+- [ ] The README matches the final code and its actual API response fields.
 
 ------------------------------------------------------------------------
 
